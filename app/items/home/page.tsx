@@ -19,7 +19,7 @@ export default function Hero() {
     <div>
       <div className="flex flex-col justify-center items-center h-screen text-center bg-[#ffe5d4] px-4">
         <h1 className="text-6xl font-medium mb-6 drop-shadow-md">
-          EventyCms.net
+          EventyCms
         </h1>
 
         <div className="relative w-full max-w-md">
