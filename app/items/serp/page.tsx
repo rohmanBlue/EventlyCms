@@ -57,7 +57,7 @@ export default function SerpPage() {
   const currentEvents = events.slice(startIndex, startIndex + itemsPerPage);
 
   return (
-    <div className="min-h-screen flex flex-col items-center py-40">
+    <div className="min-h-screen flex flex-col items-center py-40 justify-center">
       <h1 className="text-2xl font-medium mb-8">Daftar Event</h1>
 
       {/* Search Bar */}
